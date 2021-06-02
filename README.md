@@ -1,3 +1,6 @@
+![React-counter](https://user-images.githubusercontent.com/80975453/120464957-c823c000-c39d-11eb-8535-66ee894f11d0.gif)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
